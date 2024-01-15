@@ -9,3 +9,7 @@ a.appendChild(b);
 
 // document.body.appendChild(a);
 console.log(a)
+let ratul =20;
+let ratul1 =60;
+let yeasin =ratul+ratul1;
+console.log(yeasin);
