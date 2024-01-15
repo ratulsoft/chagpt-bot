@@ -13,3 +13,5 @@ let ratul =20;
 let ratul1 =60;
 let yeasin =ratul+ratul1;
 console.log(yeasin);
+let pp ="hello js";
+let pt="how can i help you"
